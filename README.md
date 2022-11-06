@@ -30,6 +30,8 @@ If a player word attempt is an invalid word, the row displaying it "wiggles" bac
 
 Coloring of virtual keyboard follows certain prioritization rules. If on the first guess a letter is in the correct position, both the letter on the monitor and keyboard are highlighted in **green**. If on the second guess that same letter is in the incorrect position, the letter on the monitor becomes **yellow** but ***stays*** **green** on the keyboard. 
 
+<img width="361" alt="Screen Shot 2022-11-05 at 11 46 27 PM" src="https://user-images.githubusercontent.com/84925247/200172384-d00e3dde-1481-42bb-bced-d0e37c6ff0f7.png">
+
 ### Duplicate Letter Handling
 
 The web-based Wordle game has particular rules when evaluating words/guesses with duplicate letters. 
